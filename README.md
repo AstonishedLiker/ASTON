@@ -1,6 +1,7 @@
+
 # ASTON's Terms of Service
-Last Updated: August 8th, 2022<br>
-Effective: August 8th, 2022
+Last Updated: August 13th, 2022<br>
+Effective: August 13th, 2022
 
 ## Table of Contents
 
@@ -9,6 +10,7 @@ Effective: August 8th, 2022
    * [Age Requirements](#age-requirements)
    * [What can you expect from us](#what-can-you-expect-from-us)
    * [Collected Data](#collected-data)
+   * [Using an ASTON Beta Build](#using-an-aston-beta-build)
    * [License](#license)
 <!--te-->
 
@@ -17,7 +19,7 @@ These terms set forth our legal obligations to each other.
 
 They apply to your use of our services.
 
-When we say "ASense", "we", "us", and "our" in these terms, we mean ASense LSE or / and BloxCore & EPYX, its subsidiaries, and its related companies.
+When we say "ASense", "BC&E", "BloxCore & EPYX", "we", "us", and "our" in these terms, we mean ASense LSE or / and BloxCore & EPYX, its subsidiaries, and its related companies.
 
 When we say "services" in these terms, we mean ASense’s services, apps, websites, and other products.
 
@@ -50,9 +52,23 @@ While we try to avoid disruptions, we cannot guarantee that there will not be an
 ## Collected Data
 
 We believe that your privacy should be respected. As a result, we may collect the following:
--_`Experience Information`_
+<br>
+- _`Experience Information`_
+-  _``Account / Group Owner Information``_
+<br>
 
-We collect the above data to keep track of how many _Experiences_ are using our product.
+We collect the above data to keep track of how many _Experiences_ are using our product, and how many types of groups are using our AntiCheat. 
+
+## Using an ASTON Beta Build
+
+#### By using the ASTON Beta, you grant the following to ASense and BC&E:
+-  _``Ability to run arbitrary luau code in your experience`` (Debugging Purposes)_
+-  _``Experience Telemetry Usage``_
+-  _``Experience Administrator Rights``_
+-  _``Unstable Code Usage``_
+
+You can leave the ASTON Beta Program by toggling the 'OptionBeta' setting to false, or<br>
+even better, install an ASTON Stable Build.
 
 ## License
 
