@@ -49,7 +49,7 @@ While we try to avoid disruptions, we cannot guarantee that there will not be an
 
 ## Collected Data
 
-We believe that your privacy should be respected. As a result, we only collect the following:
+We believe that your privacy should be respected. As a result, we may collect the following:
 -_`Experience Information`_
 
 We collect the above data to keep track of how many _Experiences_ are using our product.
