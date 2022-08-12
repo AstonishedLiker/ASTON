@@ -1,5 +1,5 @@
 # ASTON's Terms of Service
-Last Updated: August 8th, 2022
+Last Updated: August 8th, 2022<br>
 Effective: August 8th, 2022
 
 ## Table of Contents
