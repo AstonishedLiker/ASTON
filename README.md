@@ -17,7 +17,7 @@ These terms set forth our legal obligations to each other.
 
 They apply to your use of our services.
 
-When we say "ASense", "we", "us", and "our" in these terms, we mean ASense LSE, its subsidiaries, and its related companies.
+When we say "ASense", "we", "us", and "our" in these terms, we mean ASense LSE or / and BloxCore & EPYX, its subsidiaries, and its related companies.
 
 When we say "services" in these terms, we mean ASense’s services, apps, websites, and other products.
 
