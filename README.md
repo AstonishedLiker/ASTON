@@ -21,8 +21,8 @@ When we say "ASense", "we", "us", and "our" in these terms, we mean ASense LSE o
 
 When we say "services" in these terms, we mean ASense’s services, apps, websites, and other products.
 
-When we say “you” or “your,” we mean you. If you’re accessing our services on behalf of a legal entity (like your employer),
-you agree that you have the authority to bind that entity to these terms, and “you” and “your” will refer to that entity.
+When we say "you" or "your", we mean you. If you’re accessing our services on behalf of a legal entity (like your employer),
+you agree that you have the authority to bind that entity to these terms, and "you" and "your" will refer to that entity.
 
 ## Who we are
 
