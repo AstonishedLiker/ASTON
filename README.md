@@ -1,7 +1,7 @@
 
 # ASTON's Terms of Service
-Last Updated: August 13th, 2022<br>
-Effective: August 13th, 2022
+Last Updated: August 16th, 2022<br>
+Effective: August 16th, 2022
 
 ## Table of Contents
 
@@ -11,6 +11,7 @@ Effective: August 13th, 2022
    * [What can you expect from us](#what-can-you-expect-from-us)
    * [Collected Data](#collected-data)
    * [Using an ASTON Beta Build](#using-an-aston-beta-build)
+   * [Conditions](#conditions)
    * [License](#license)
 <!--te-->
 
@@ -69,6 +70,14 @@ We collect the above data to keep track of how many _Experiences_ are using our 
 
 You can leave the ASTON Beta Program by toggling the 'OptionBeta' setting to false, or<br>
 even better, install an ASTON Stable Build.
+
+## Conditions
+
+#### By using any ASTON Releases (Free and Premium), you agree to the following:
+- _``Deobfuscating and Leaking ASTON Builds is not allowed``_
+- _``You can be blacklisted at anytime for any reason without a refund``_
+
+By agreeing to the above, we can make the ASTON Community a better place.
 
 ## License
 
