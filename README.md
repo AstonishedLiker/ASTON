@@ -1,7 +1,7 @@
 
 # ASTON's Terms of Service
-Last Updated: August 16th, 2022<br>
-Effective: August 16th, 2022
+Last Updated: October 31th, 2022<br>
+Effective: November 5th, 2022
 
 ## Table of Contents
 
@@ -9,8 +9,6 @@ Effective: August 16th, 2022
    * [Who we are](#who-we-are)
    * [Age Requirements](#age-requirements)
    * [What can you expect from us](#what-can-you-expect-from-us)
-   * [Collected Data](#collected-data)
-   * [Using an ASTON Beta Build](#using-an-aston-beta-build)
    * [Conditions](#conditions)
    * [License](#license)
 <!--te-->
@@ -50,34 +48,11 @@ As part of these efforts, we may add or remove features, start offering new serv
 
 While we try to avoid disruptions, we cannot guarantee that there will not be an outage or change to the services, and your content may not be retrievable due to such outages or changes. We are not liable for any such outages or service changes.
 
-## Collected Data
-
-We believe that your privacy should be respected. As a result, we may collect the following:
-<br>
-- _`Experience Information`_
--  _``Account / Group Owner Information``_
-<br>
-
-We collect the above data to keep track of how many _Experiences_ are using our product, and how many types of groups are using our AntiCheat. 
-
-## Using an ASTON Beta Build
-
-#### By using the ASTON Beta, you grant the following to ASense and BC&E:
--  _``Ability to run arbitrary luau code in your experience`` (Debugging Purposes)_
--  _``Experience Telemetry Usage``_
--  _``Experience Administrator Rights``_
--  _``Unstable Code Usage``_
-
-You can leave the ASTON Beta Program by toggling the 'OptionBeta' setting to false, or<br>
-even better, install an ASTON Stable Build.
-
 ## Conditions
 
-#### By using any ASTON Releases (Free and Premium), you agree to the following:
-- _``Deobfuscating and Leaking ASTON Builds is not allowed``_
-- _``You can be blacklisted at anytime for any reason without a refund``_
-
-By agreeing to the above, we can make the ASTON Community a better place.
+#### By using ASTON, you agree to the following:
+- _``Deobfuscating ASTON Builds is not allowed``_
+- _``You can be blacklisted at anytime for any reason``_
 
 ## License
 
