@@ -1,5 +1,0 @@
-Dear Mods,
-
-The words in 'blacklisted-words' arem eant for the anticheat to detect inapropriate sentences / words.
-
-It is not meant to offend anyone.
