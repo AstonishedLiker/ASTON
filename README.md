@@ -50,9 +50,13 @@ While we try to avoid disruptions, we cannot guarantee that there will not be an
 
 ## Conditions
 
-#### By using ASTON, you agree to the following:
-- _``Deobfuscating ASTON Builds is not allowed``_
+#### By buying / getting ASTON, you agree to the following:
+- _``You **will not** be deobfuscating ASTON Builds``_
+- _``You **will not** be releasing a bypass script for ASTON Builds``_
+- _``You **will not** be leaking ASTON Builds``_
 - _``You can be blacklisted at anytime for any reason``_
+
+_If the TOS isn't respected, moderation actions such as a ban / blacklist might occur._
 
 ## License
 
