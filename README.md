@@ -15,7 +15,7 @@
    * [10. Governing Law and Jurisdiction](#10-governing-law-and-jurisdiction)
    * [11. Entire Agreement](#11-entire-agreement)
 <!--te-->
-
+<br>
 ASTON is an anti-exploit software ("Software") owned by ASense ("ASense", "we", "our", or "us").
 By using the Software, you ("you", "your", or "user") agree to be bound by these TOS ("TOS").
 
