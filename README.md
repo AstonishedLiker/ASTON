@@ -11,9 +11,8 @@
    * [6. Severability](#6-severability)
    * [7. Disclaimer of Warranties](#7-disclaimer-of-warranties)
    * [8. Limitation of Liability](#8-limitation-of-liability)
-   * [9. Indemnification](#9-indemnification)
-   * [10. Governing Law and Jurisdiction](#10-governing-law-and-jurisdiction)
-   * [11. Entire Agreement](#11-entire-agreement)
+   * [9. Governing Law and Jurisdiction](#9-governing-law-and-jurisdiction)
+   * [10. Entire Agreement](#10-entire-agreement)
 <!--te-->
 <br>
 ASTON is an anti-exploit software ("Software") owned by ASense ("ASense", "we", "our", or "us").
@@ -56,15 +55,11 @@ _THIS DISCLAIMER OF LIABILITY APPLIES TO ANY DAMAGES OR INJURY CAUSED BY ANY FAI
 
 _TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE OR OUR AFFILIATES BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, OUR ENTIRE LIABILITY UNDER ANY PROVISION OF THIS TOS SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE._
 
-### 9. Indemnification
-
-You agree to indemnify, defend, and hold harmless ASense and its affiliates, directors, officers, employees, and agents from and against any and all claims, liabilities, damages, losses, or expenses, including reasonable attorneys' fees and costs, arising out of or in any way connected with your use of the Software, your breach of these TOS, or your violation of any rights of another.
-
-### 10. Governing Law and Jurisdiction
+### 9. Governing Law and Jurisdiction
 
 These TOS shall be governed by and construed in accordance with the laws of France, without giving effect to any principles of conflicts of law. Any legal action or proceeding relating to these TOS shall be instituted in the courts of France, and you agree to submit to the jurisdiction of such courts.
 
-### 11. Entire Agreement
+### 10. Entire Agreement
 
 These TOS constitute the entire agreement between you and ASense with respect to the use of the Software and supersede all prior or contemporaneous communications and proposals, whether oral or written, between you and ASense.
 
