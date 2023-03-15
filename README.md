@@ -24,7 +24,7 @@ ASense grants you a non-exclusive, transferable, limited license to install and 
 
 ### 2. Restrictions
 
-You may not modify, reverse engineer, decompile, or disassemble the Software, or create derivative works based on the Software, except to the extent that such activity is expressly permitted by applicable law. You may not rent, lease, loan, sublicense, distribute, or otherwise transfer the Software to any third party.
+You may not modify, reverse engineer, decompile, bypass, or disassemble the Software, or create derivative works based on the Software, except to the extent that such activity is expressly permitted by applicable law. You may not rent, lease, loan, sublicense, distribute, or otherwise transfer the Software to any third party. Any vulnerability concerning ASTON should be reported to ASense.
 
 ### 3. Data Collection
 
