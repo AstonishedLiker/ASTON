@@ -16,7 +16,7 @@
 <!--te-->
 <br>
 ASTON is an anti-exploit software ("Software") owned by ASense ("ASense", "we", "our", or "us").
-By using the Software, you ("you", "your", or "user") agree to be bound by these TOS ("TOS").
+By using the Software, you ("you", "your", or "user") agree to be bound by these TOS ("Terms of Service". "ToS").
 
 ### 1. License Grant
 
@@ -28,7 +28,7 @@ You may not modify, reverse engineer, decompile, bypass, or disassemble the Soft
 
 ### 3. Data Collection
 
-We collect Discord User IDs, Roblox User IDs, and Experience User IDs for the purpose of providing support and improving the Software. By using the Software, you consent to this data collection and usage.
+We collect Discord User IDs, Roblox User IDs, and Experience User IDs to provide support and improve the Software. By using the Software, you consent to this data collection and usage.
 
 ### 4. Updates and Revisions
 
